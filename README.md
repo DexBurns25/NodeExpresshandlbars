@@ -14,6 +14,7 @@ Burger logger with MySQL, Node, Express, Handlebars and ORM. Uses Node and MySQL
 Screenshot
 <img src=“INSERT LINK TO SCREENSHOT”>
 
+
 Links
 Repo:
 
