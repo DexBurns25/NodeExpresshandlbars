@@ -1,37 +1,13 @@
-
+README.md
+Node-Express-Handlebars
 Node Express Handlebars: Burger
-
-
-
-
-
-
-
-
 Description
 Burger logger with MySQL, Node, Express, Handlebars and ORM. Uses Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
 
 Screenshot
-<img src=“INSERT LINK TO SCREENSHOT”>
+<img src=“ url(./../img/burger.jpg);”>
+
 
 
 Links
 Repo:
-
-
-
-https://dexburns25.github.io/NodeExpresshandlbars/
-
-
-
-
-
-
-https://git.heroku.com/nodeexpresshandlebars1.git
-
-
-
-
-
-
-
