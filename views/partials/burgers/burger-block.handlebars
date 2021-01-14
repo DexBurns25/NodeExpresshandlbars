@@ -1,0 +1,7 @@
+<li class="list-group-item list-group-item-info">
+	{{burger_name}}
+{{#if devour}}
+	<button class="change-devour btn btn-warning" data-id="{{id}}" data-newdevour="{{devour}}">Devour</button>
+{{/if}}
+	<button class="delete-burger btn btn-danger" data-id="{{this.id}}">Delete</button>
+</li>
