@@ -27,4 +27,4 @@ README.md
 
 # Links
 - https://github.com/DexBurns25/NodeExpresshandlbars.git
-- https://git.heroku.com/nodeexpresshandlebars1.git
+- https://shrouded-taiga-03730.herokuapp.com/
