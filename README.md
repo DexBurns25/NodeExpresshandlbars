@@ -19,8 +19,9 @@ README.md
 - ORM. 
 
 # Screenshot
-![burgers](https://user-images.githubusercontent.com/71415601/106840100-78dab680-666d-11eb-9107-5c7424df1a2e.JPG)
-![burgers 2](https://user-images.githubusercontent.com/71415601/106840105-7aa47a00-666d-11eb-9070-b1ae7a1818e4.JPG)
+![burger1](https://user-images.githubusercontent.com/71415601/106975398-76876380-6724-11eb-8f2c-9ef91169b2aa.JPG)
+![burger2](https://user-images.githubusercontent.com/71415601/106975403-79825400-6724-11eb-8851-5520c9a8bca7.JPG)
+
 
 
 
